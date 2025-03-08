@@ -1,4 +1,4 @@
-package train
+package main
 
 import "fmt"
 
